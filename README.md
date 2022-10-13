@@ -1,1 +1,2 @@
-# simple-counter
+# Simple Counter Web Component
+
